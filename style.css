@@ -1,0 +1,163 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    font-weight: 300;
+    font-size: 12px;
+    background-color: black;
+}
+h2{
+    font-size: 56px;
+    margin-bottom: 0;
+}
+.container{
+    width: 1512px;
+    margin: 0 auto;
+}
+nav{
+    background-color: rgb(47, 47, 47);
+    position: fixed;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1024px;
+    margin: 0 auto;
+}
+nav a{
+    color: rgb(229, 226, 226);
+    list-style: none;
+    text-decoration: none;
+    
+}
+.iphone14{
+    background-color: #fbfbfd;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.iphone14 p {
+    color: #1d1d1f;
+}
+.text{
+    font-size: 28px;
+    text-decoration: none;
+    padding:0 15px;
+    margin:10px 0 5px 0;
+    font-weight: 400;
+    
+    }
+.tag{
+color: #0066cc;
+text-decoration: none;
+padding:0 30px;
+font-size: 21px;
+margin: 0;
+
+}
+.iphone14pro{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    color: #f5f5f7;
+}
+.iphone14pro img{
+
+}
+.watch{
+    display: flex;
+    align-self: center;
+    text-align: center;
+    flex-direction: column;
+    background-color: #fbfbfd;
+}
+.watch i{
+    font-size: 56px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 56px;
+}
+.icon h2{
+    margin: 0;
+}
+.orange{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(246, 97, 10);
+    margin: 5px 0 12px 0;
+}
+.two{
+    display: flex;
+    color: #fbfbfd;
+}
+.scene{
+    width: 50%;
+    display: flex;
+    align-self: center;
+    text-align: center;
+    flex-direction: column;
+    height: 580px;
+
+}
+.scene i{
+    font-size: 40px;
+
+}
+.scene h2{
+    font-size: 40px;
+}
+.text2{
+    font-size: 21px;
+    text-decoration: none;
+    padding:0 15px;
+    margin:10px 0 5px 0;
+    font-weight: 400;
+    
+    }
+.tag2{
+color: #0066cc;
+text-decoration: none;
+padding:0 10px;
+font-size: 17px;
+margin: 0;
+display: inline-block;
+
+}
+.red{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(246, 10, 10);
+    margin: 5px 0 12px 0;
+}
+.series8{
+    background-image: url(./zurag/figure\ \(3\).png);
+}
+.airpod{
+    background-image: url(./zurag/figure\ \(4\).png);
+}
+.se{
+    background-image: url(./zurag/figure\ \(5\).png);
+    background-size: cover;
+    color: #1d1d1f;
+}
+.fitness{
+    background-image: url(./zurag/figure\ \(6\).png);
+    background-size: cover;
+    color: #1d1d1f;
+}
+.macbook{
+    background-image: url(./zurag/figure\ \(7\).png);
+    background-size: cover;
+    color: #1d1d1f;
+}
+.card{
+    background-image: url(./zurag/figure\ \(8\).png);
+    background-size: cover;
+    color: #1d1d1f;
+}
